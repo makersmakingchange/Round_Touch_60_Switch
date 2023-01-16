@@ -14,13 +14,15 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # (todo:Project Title)
+ # Touch Switch
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
+This touch switch can control 3.5mm Audio outputs like in the Xbox Adaptive Controller and other switch adapted products. The cost in part per unit is around $6 USD and it requires no programming.
+
+Download the attached pdf for the parts list, wiring schematic, 3D printing files, and other project notes.
 
 <!--- 
 PHOTO
@@ -64,13 +66,12 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | [ProjectTitle_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
-| Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
+| Design Rationale     | 1.0 | [Touch_Switch_Design_Rationale](/Documentation/Touch_Switch_Design_Rationale_v0.1.pdf) |
+| Maker Checklist      | 1.0 | [Touch_Switch_Checklist](/Documentation/Touch_Switch_Maker_Checklist_v0.1.pdf) |
+| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM_v0.1.xlsx) |
+| Assembly Guide       | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide_v0.1.pdf) |
+| User Quick Guide     | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_Quick_Guide_v0.1.pdf)           |
+| Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog_v0.1.pdf)               |
 
 ### Design Files
 <!---
@@ -78,7 +79,7 @@ DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
 --->
  - [CAD Files](/Design_Files/CAD)
- - [PCB Files](/Design_Files/PCB)
+
 
 ### Build Files
 <!---
@@ -86,8 +87,6 @@ BUILD FILES
 This section i
 --->
  - [3D Printing Files](/Build_Files/3D_Printing)
- - [Custom PCB Files](/Build_Files/Custom_PCB)
- - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
 
 ## License
 <!---
