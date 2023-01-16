@@ -34,7 +34,7 @@ PHOTO
 <!--- 
  - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/single-row-playing-cards-holder/) 
  --->
- - [Makers Making Change Project Page](https://makersmakingchange.com/project/single-row-playing-cards-holder/)
+ - [Makers Making Change Project Page](https://makersmakingchange.com/project/touch-switch/)
  
  
 ## How to Obtain a Touch Switch
