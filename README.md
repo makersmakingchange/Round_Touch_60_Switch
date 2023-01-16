@@ -73,7 +73,7 @@ DOCUMENTATION
 | User Quick Guide     | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_Quick_Guide_v0.1.pdf)           |
 | Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog_v0.1.pdf)               |
 
-### Design Files
+### Design Files (Pending)
 <!---
 DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
