@@ -62,10 +62,10 @@ The [Bill of Materials](/Documentation/Touch_Switch_BOM_and_Wiring_Diagram.pdf) 
 ### 2. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Touch Switch (Pending)
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [assembly guide](/Documentation/Touch_Switch_BOM_and_Wiring_Diagram.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
