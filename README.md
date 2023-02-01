@@ -20,7 +20,7 @@ Should match the name of the GitHub repository. Choose something descriptive rat
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-This touch switch can control 3.5mm Audio outputs like in the Xbox Adaptive Controller and other switch adapted products. The cost in part per unit is around $6 USD and it requires no programming.
+This touch switch can control 3.5mm Audio outputs like in the Xbox Adaptive Controller and other switch adapted products. The cost in part per unit is around $6 USD and it requires no programming. This device may help users with limited hand strength and dexterity that find it challenging to press mechanical switches. 
 
 Download the attached pdf for the parts list, wiring schematic, 3D printing files, and other project notes.
 
@@ -57,7 +57,7 @@ Include an overall idea of what major steps are required to build the device.
  --->
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/Touch_Switch_BOM_and_Wiring_Diagram.pdf) lists all of the parts and components required to build the Touch Switch. The electronic components may be available locally, but will probably need to be ordered online. 
+The [Bill of Materials](/Documentation/Touch_Switch_BOM.xlsx) lists all of the parts and components required to build the Touch Switch. The electronic components may be available locally, but will probably need to be ordered online. 
 
 ### 2. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
@@ -65,7 +65,7 @@ Print the components for the switch tester case and choose an option for the cas
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Touch Switch (Pending)
-Reference the [assembly guide](/Documentation/Touch_Switch_BOM_and_Wiring_Diagram.pdf) for the tools and steps required to build each portion.
+Reference the [assembly guide](/Documentation/Touch_Switch_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
@@ -80,20 +80,25 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Rationale     | 1.0 | [Touch_Switch_Design_Rationale](/Documentation/Touch_Switch_Design_Rationale_v0.1.pdf) |
-| Maker Checklist      | 1.0 | [Touch_Switch_Checklist](/Documentation/Touch_Switch_Maker_Checklist_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM_v0.1.xlsx) |
-| Assembly Guide (Pending)     | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide_v0.1.pdf) |
-| User Quick Guide     | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog_v0.1.pdf)               |
+| Design Rationale     | 1.0 | [Touch_Switch_Design_Rationale](/Documentation/Touch_Switch_Design_Rationale.pdf) |
+| Maker Checklist      | 1.0 | [Touch_Switch_Checklist](/Documentation/Touch_Switch_Maker_Checklist.pdf) |
+| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM.xlsx) |
+| Assembly Guide       | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide.pdf) |
+| User Guide           | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_User_Guide.pdf)           |
+| Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog.pdf)               |
 
+<!---
 ### Design Files (Pending)
+--->
+
 <!---
 DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
 --->
- - [CAD Files](/Design_Files/CAD)
 
+<!---
+ - [CAD Files](/Design_Files/CAD)
+--->
 
 ### Build Files
 <!---
