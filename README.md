@@ -20,7 +20,7 @@ Should match the name of the GitHub repository. Choose something descriptive rat
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-This touch switch can control 3.5mm Audio outputs like in the Xbox Adaptive Controller and other switch adapted products. The cost in part per unit is around $6 USD and it requires no programming.
+This touch switch can control 3.5mm Audio outputs like in the Xbox Adaptive Controller and other switch adapted products. The cost in part per unit is around $6 USD and it requires no programming. This device may help users with limited hand strength and dexterity that find it challenging to press mechanical switches. 
 
 Download the attached pdf for the parts list, wiring schematic, 3D printing files, and other project notes.
 
