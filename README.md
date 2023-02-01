@@ -82,18 +82,23 @@ DOCUMENTATION
 |----------|---------|------|
 | Design Rationale     | 1.0 | [Touch_Switch_Design_Rationale](/Documentation/Touch_Switch_Design_Rationale.pdf) |
 | Maker Checklist      | 1.0 | [Touch_Switch_Checklist](/Documentation/Touch_Switch_Maker_Checklist.pdf) |
-| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM_.xlsx) |
-| Assembly Guide (Pending)     | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide.pdf) |
-| User Quick Guide     | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_Quick_Guide.pdf)           |
+| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM.xlsx) |
+| Assembly Guide       | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide.pdf) |
+| User Guide           | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_User_Guide.pdf)           |
 | Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog.pdf)               |
 
+<!---
 ### Design Files (Pending)
+--->
+
 <!---
 DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
 --->
- - [CAD Files](/Design_Files/CAD)
 
+<!---
+ - [CAD Files](/Design_Files/CAD)
+--->
 
 ### Build Files
 <!---
