@@ -57,7 +57,7 @@ Include an overall idea of what major steps are required to build the device.
  --->
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/Touch_Switch_BOM_and_Wiring_Diagram.pdf) lists all of the parts and components required to build the Touch Switch. The electronic components may be available locally, but will probably need to be ordered online. 
+The [Bill of Materials](/Documentation/Touch_Switch_BOM.xlsx) lists all of the parts and components required to build the Touch Switch. The electronic components may be available locally, but will probably need to be ordered online. 
 
 ### 2. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
