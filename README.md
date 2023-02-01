@@ -65,7 +65,7 @@ Print the components for the switch tester case and choose an option for the cas
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Touch Switch (Pending)
-Reference the [assembly guide](/Documentation/Touch_Switch_BOM_and_Wiring_Diagram.pdf) for the tools and steps required to build each portion.
+Reference the [assembly guide](/Documentation/Touch_Switch_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
@@ -80,12 +80,12 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Rationale     | 1.0 | [Touch_Switch_Design_Rationale](/Documentation/Touch_Switch_Design_Rationale_v0.1.pdf) |
-| Maker Checklist      | 1.0 | [Touch_Switch_Checklist](/Documentation/Touch_Switch_Maker_Checklist_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM_v0.1.xlsx) |
-| Assembly Guide (Pending)     | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide_v0.1.pdf) |
-| User Quick Guide     | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog_v0.1.pdf)               |
+| Design Rationale     | 1.0 | [Touch_Switch_Design_Rationale](/Documentation/Touch_Switch_Design_Rationale.pdf) |
+| Maker Checklist      | 1.0 | [Touch_Switch_Checklist](/Documentation/Touch_Switch_Maker_Checklist.pdf) |
+| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM_.xlsx) |
+| Assembly Guide (Pending)     | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide.pdf) |
+| User Quick Guide     | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_Quick_Guide.pdf)           |
+| Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog.pdf)               |
 
 ### Design Files (Pending)
 <!---
