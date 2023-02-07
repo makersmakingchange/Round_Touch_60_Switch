@@ -44,7 +44,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Round Touch 60 Switch , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/touch-switch/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Round Touch 60 Switch , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/round-touch-60-switch/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
