@@ -14,13 +14,13 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # Touch Switch
+ # Round Touch 60 Switch
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-This touch switch can control 3.5mm Audio outputs like in the Xbox Adaptive Controller and other switch adapted products. The cost in part per unit is around $6 USD and it requires no programming. This device may help users with limited hand strength and dexterity that find it challenging to press mechanical switches. 
+The Round Touch 60 Switch can control 3.5mm Audio outputs like in the Xbox Adaptive Controller and other switch adapted products. The cost in part per unit is around $6 USD and it requires no programming. This device may help users with limited hand strength and dexterity that find it challenging to press mechanical switches. 
 
 Download the attached pdf for the parts list, wiring schematic, 3D printing files, and other project notes.
 
@@ -28,7 +28,7 @@ Download the attached pdf for the parts list, wiring schematic, 3D printing file
 PHOTO
 
  --->
-<img src="Photos/Touch Switch.png" width="500" alt="A hand activating a Touch Switch turning on a small light.">
+<img src="Photos/Touch Switch.png" width="500" alt="A hand activating the Round Touch 60 Switch turning on a small light.">
 
 ## More info at
 <!--- 
@@ -37,14 +37,14 @@ PHOTO
  - [Makers Making Change Project Page](https://makersmakingchange.com/project/touch-switch/)
  
  
-## How to Obtain a Touch Switch
+## How to Obtain a Round Touch 60 Switch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Touch Switch are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build a Round Touch 60 Switch are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Touch Switch , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/touch-switch/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Round Touch 60 Switch , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/touch-switch/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -57,15 +57,15 @@ Include an overall idea of what major steps are required to build the device.
  --->
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/Touch_Switch_BOM.xlsx) lists all of the parts and components required to build the Touch Switch. The electronic components may be available locally, but will probably need to be ordered online. 
+The [Bill of Materials](/Documentation/Round_Touch_60_Switch_BOM.xlsx) lists all of the parts and components required to build a Round Touch 60 Switch. The electronic components may be available locally, but will probably need to be ordered online. 
 
 ### 2. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 3. Assemble the Touch Switch (Pending)
-Reference the [assembly guide](/Documentation/Touch_Switch_Assembly_Guide.pdf) for the tools and steps required to build each portion.
+### 3. Assemble the Round Touch 60 Switch 
+Reference the [assembly guide](/Documentation/Round_Touch_60_Switch_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
@@ -80,12 +80,12 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Rationale     | 1.0 | [Touch_Switch_Design_Rationale](/Documentation/Touch_Switch_Design_Rationale.pdf) |
-| Maker Checklist      | 1.0 | [Touch_Switch_Checklist](/Documentation/Touch_Switch_Maker_Checklist.pdf) |
-| Bill of Materials    | 1.0 | [Touch_Switch_BOM](/Documentation/Touch_Switch_BOM.xlsx) |
-| Assembly Guide       | 1.0 | [Touch_Switch_Instructions](/Documentation/Touch_Switch_Assembly_Guide.pdf) |
-| User Guide           | 1.0 | [Touch_Switch_Quick_Guide](/Documentation/Touch_Switch_User_Guide.pdf)           |
-| Changelog            | 1.0 | [Touch_Switch_Changelog](/Documentation/Touch_Switch_Changelog.pdf)               |
+| Design Rationale     | 1.0 | [Round_Touch_60_Switch_Design_Rationale](/Documentation/Round_Touch_60_Switch_Design_Rationale.pdf) |
+| Maker Checklist      | 1.0 | [Round_Touch_60_Switch_Checklist](/Documentation/Round_Touch_60_Switch_Maker_Checklist.pdf) |
+| Bill of Materials    | 1.0 | [Round_Touch_60_Switch_BOM](/Documentation/Round_Touch_60_Switch_BOM.xlsx) |
+| Assembly Guide       | 1.0 | [Round_Touch_60_Switch_Instructions](/Documentation/Round_Touch_60_Switch_Assembly_Guide.pdf) |
+| User Guide           | 1.0 | [Round_Touch_60_Switch_Quick_Guide](/Documentation/Round_Touch_60_Switch_User_Guide.pdf)           |
+| Changelog            | 1.0 | [Round_Touch_60_Switch_Changelog](/Documentation/Round_Touch_60_Switch_Changelog.pdf)               |
 
 <!---
 ### Design Files (Pending)
