@@ -31,9 +31,9 @@ PHOTO
 <img src="Photos/Touch Switch.png" width="500" alt="A hand activating the Round Touch 60 Switch turning on a small light.">
 
 ## More info at
-<!--- 
- - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/single-row-playing-cards-holder/) 
- --->
+
+ - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/round-touch-60-switch/) 
+ 
  - [Makers Making Change Project Page](https://makersmakingchange.com/project/round-touch-60-switch/)
  
  
