@@ -32,9 +32,7 @@ PHOTO
 
 ## More info at
 
- - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/round-touch-60-switch/) 
- 
- - [Makers Making Change Project Page](https://makersmakingchange.com/project/round-touch-60-switch/)
+ - [Makers Making Change Assistive Device Library Project Page]([https://makersmakingchange.com/project/round-touch-60-switch/](https://www.makersmakingchange.com/s/product/round-touch-60-assistive-switch/01tJR000005KnL3YAK))
  
  
 ## How to Obtain a Round Touch 60 Switch
