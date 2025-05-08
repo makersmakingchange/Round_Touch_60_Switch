@@ -73,9 +73,9 @@ Original design by Jeffrey Ebin, licenced under [attribution-sharealike-4-0-inte
 Documentation created by Neil Squire Society / Makers Making Change.
 
 ### Contributors
-Jeffrey Ebin. Ebcore.
-Eric Steinthorson. Neil Squire Society / Makers Making Change.
-Jake McIvor. Neil Squire Society / Makers Making Change.
+ - Jeffrey Ebin. Ebcore.
+ - Eric Steinthorson. Neil Squire Society / Makers Making Change.
+ - Jake McIvor. Neil Squire Society / Makers Making Change.
 
 
 
