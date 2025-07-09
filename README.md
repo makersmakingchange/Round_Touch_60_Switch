@@ -3,6 +3,7 @@
 <!--- TITLE Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.   --->
  # Round Touch 60 Switch
 
+STATUS: 2025-Jul-09. We've temporarily removed this design from the MMC OpenAT Library until some necessary design changes can be implemented.
 <!---  SUMMARY A brief summary of the project. What it does, who it is for, how much it costs.  --->
 The Round Touch 60 Switch is an assistive switch that is activated by touching the top surface. This device may help users with limited hand strength and dexterity that find it challenging to activate standard mechanical switches. 
 
